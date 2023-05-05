@@ -1,6 +1,8 @@
-### Hi there 👋
-
-
-- 🔭 I'm not working at the moment
-- 🌱 I am currently learning: JavaScript, Node, React.
-- 📫 How to reach me: [**This way...**](https://lailson19.github.io/)
+# Oi, sou o Lailson 🖖
+## Sou...
+- 🌎 Brasilero, natural de Caruaru-PE;
+- 🏠 Residente em São Paulo-SP;
+- 🎓 Bacharel em Design Digital (UAM);
+- 💼 Aberto a novas oportunidades;
+- 💻 FullStack -> Júnior;
+ 
