@@ -12,6 +12,6 @@
     </ul>
 </div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lailson19&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Lailson19/Lailson19#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lailson19&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/Lailson19/Lailson19#gh-dark-mode-only)
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lailson19&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Lailson19/Lailson19#gh-dark-mode-only#gh-light-mode-only)
