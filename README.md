@@ -1,5 +1,5 @@
 # Oi, sou o Lailson 🖖
-## Sou...
+**Sou...**
 - 🌎 Brasilero, natural de Caruaru-PE;
 - 🏠 Residente em São Paulo-SP;
 - 🎓 Bacharel em Design Digital (UAM);
