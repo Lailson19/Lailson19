@@ -24,3 +24,10 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lailson19&count_private=true&show_icons=true&card_width=100px&theme=github_dark#gh-dark-mode-only)](https://github.com/Lailson19/Lailson19#gh-dark-mode-only)
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lailson19&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Lailson19/Lailson19#gh-light-mode-only)
+
+<div> <br> 
+  <a href = "mailto:contatolailsonandesson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lailson-andesson-6023a518a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/lailsonandessondesign" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+</div>
