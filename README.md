@@ -12,4 +12,4 @@
     </ul>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lailson19)](https://github.com/Lailson19/Lailson19)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lailson19&count_private=true)](https://github.com/Lailson19/Lailson19)
