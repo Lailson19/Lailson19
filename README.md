@@ -1,4 +1,4 @@
-# Oi, sou o Lailson 🖖
+# E ae, sou o Lailson 🖖
 
 ## Sou...
 - 🌎 Brasilero, natural de Caruaru-PE;</li>
