@@ -1,14 +1,7 @@
 # Lailson aqui. Tudo bem?
 
-## Sou...
-- Brasilero, natural de Caruaru-PE;</li>
-- Residente em São Paulo-SP;</li>
-- Formado em Design Digital (UAM);</li>
-- Desenvolvedor web</li>
-
-## Gosto de...
-- Fotografia;</li>
-- Música (Instrumentista);</li>
+- Brasilero, residente em São Paulo-SP;</li>
+- Dev Full-Stack / Designer;</li>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lailson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
