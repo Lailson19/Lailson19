@@ -1,7 +1,8 @@
-# Lailson aqui. Tudo bem?
+# Lailson Andesson | Designer e Desenvolvedor Centrado no Ser Humano
+
+Guiado pelos valores e Fé em Deus, família e pessoas. Meu objetivo é usar o Design e o Desenvolvimento Web para criar soluções funcionais que realmente façam a diferença na vida de pessoas.
 
 - Brasilero, residente em São Paulo-SP;</li>
-- Dev Full-Stack / Designer;</li>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lailson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
