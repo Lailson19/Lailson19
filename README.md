@@ -7,15 +7,15 @@ Guiado pelos valores e Fé em Deus, família e pessoas. Meu objetivo é usar o D
 - Designer, priorizando a experiênca e usabilidade no digital;</li>
 - Estudante, de tudo o que me é possível aprender e transformar quem sou.</li>
 
-<span translate="no">
-## Lailson Andesson | Human-Centered Designer & Developer
-
-Guided by values ​​and faith in God, family and people, my goal is to use Design and Web Development to create functional solutions that really make a difference in people's lives.
-
-- Brazilian, living in São Paulo-SP;</li>
-- Web Developer, focused on facilitating and making everyday life possible;</li>
-- Designer, prioritizing experience and usability in digital;</li>
-- Student, of everything I can learn and transform who I am.</li>
+<span translate="no">  
+  <h1> Lailson Andesson | Human-Centered Designer & Developer</h1>
+  
+  Guided by values ​​and faith in God, family and people, my goal is to use Design and Web Development to create functional solutions that really make a difference in people's lives.
+  
+  - Brazilian, living in São Paulo-SP;</li>
+  - Web Developer, focused on facilitating and making everyday life possible;</li>
+  - Designer, prioritizing experience and usability in digital;</li>
+  - Student, of everything I can learn and transform who I am.</li>
 </span>
 
 <div style="display: inline_block"><br>
