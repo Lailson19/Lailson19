@@ -27,7 +27,7 @@ Guiado pelos valores e Fé em Deus, família e pessoas. Meu objetivo é usar o D
   <img align="center" alt="Lailson-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lailson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lailson-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="Lailson-tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div><br>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lailson19&count_private=true&show_icons=true&card_width=100px&theme=github_dark#gh-dark-mode-only)](https://github.com/Lailson19/Lailson19#gh-dark-mode-only)
