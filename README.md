@@ -1,8 +1,10 @@
-# Lailson Andesson | Designer e Desenvolvedor Centrado no Ser Humano
+# Lailson Andesson | Designer e Desenvolvedor Centrado no ser Humano
 
 Guiado pelos valores e Fé em Deus, família e pessoas. Meu objetivo é usar o Design e o Desenvolvimento Web para criar soluções funcionais que realmente façam a diferença na vida de pessoas.
 
 - Brasilero, residente em São Paulo-SP;</li>
+- Desenvolvedor Web, focado em facilitar e viabilizar o dia-a-dia;</li>
+- Designer, focado na experiênca e usabilidade digital;</li>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lailson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,17 +15,13 @@ Guiado pelos valores e Fé em Deus, família e pessoas. Meu objetivo é usar o D
   <img align="center" alt="Lailson-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lailson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lailson-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-
-
 </div><br>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lailson19&count_private=true&show_icons=true&card_width=100px&theme=github_dark#gh-dark-mode-only)](https://github.com/Lailson19/Lailson19#gh-dark-mode-only)
-
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lailson19&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Lailson19/Lailson19#gh-light-mode-only)
 
 <div> <br> 
   <a href = "mailto:contatolailsonandesson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lailson-andesson-6023a518a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/lailsonandessondesign" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
 </div>
